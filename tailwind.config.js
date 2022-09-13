@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+const defaultTheme = require('tailwindcss/defaultTheme');
 module.exports = {
     content: ["index.html"],
     theme: {
@@ -14,10 +15,13 @@ module.exports = {
             },
             fontSize: {
                 base: ['1rem', '1.35rem'],
-                xl: ['1.375rem', '1.65rem']
+                xl: ['1.375rem', '1.65rem'],
             },
             fontFamily: {
-                body: ['Outfit'],
+                sans: [
+                    'Outfit',
+                    ...defaultTheme.fontFamily.sans,
+                  ],
             },
             maxWidth: {
                 'sm': '22rem',
