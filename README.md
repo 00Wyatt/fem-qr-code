@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR Code Component](./src/images/screenshot-frontend-mentor-qr-code-component.png)
+![QR Code Component](./images/screenshot-frontend-mentor-qr-code-component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Responsive QR Code Component using TailwindCSS](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-tailwindcss-GtHQ1bFmg0)
+- Live Site URL: [Frontend Mentor | QR code component](https://00wyatt.github.io/fem-qr-code/)
 
 ## My process
 
